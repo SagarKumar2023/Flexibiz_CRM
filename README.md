@@ -3,6 +3,9 @@
 ## Project Overview
 Flexibiz CRM is a robust Flutter-based mobile application designed for field staff and CRM managers. It facilitates efficient lead management, activity tracking, project monitoring, and attendance recording. The application integrates with Flexibiz ERP to provide real-time data access and streamlined business processes for field operations.
 
+## App Screenshots
+Access the full visual gallery of the application here: [App Screenshots Document](https://docs.google.com/document/d/1kwBpxqYpc2auh94gFIYURh-wiAR71-6LSpENyxDJz4o/edit?usp=sharing)
+
 ## Key Features
 *   **Comprehensive Activity Tracking:** Manage leads, contacts, customers, complaints, and inquiries in one place.
 *   **Field Staff Attendance:** Geolocation-based mark-in/mark-out with attendance history.
